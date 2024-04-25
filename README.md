@@ -2,13 +2,12 @@
 Project 
 
 #output
+![image](https://github.com/Jeevanandam26/mywebsite/assets/115988139/e6e13581-6060-4353-9a32-2be67240da0d)
 
-<img width="960" alt="output" src="https://github.com/Jeevanandam26/mywebsite/assets/115988139/940986a9-e61f-4b5b-b75a-828066cf950a">
-
-
-<img width="960" alt="output2" src="https://github.com/Jeevanandam26/mywebsite/assets/115988139/57bff5be-90ab-4df0-9ede-dea53d74d4fc">
+![image](https://github.com/Jeevanandam26/mywebsite/assets/115988139/95a28f83-9494-4c74-9c1c-e2ce421ebc11)
 
 
 
+![image](https://github.com/Jeevanandam26/mywebsite/assets/115988139/6df3fee3-b048-4ac1-957e-cff80b86cea8)
 
-
+![image](https://github.com/Jeevanandam26/mywebsite/assets/115988139/3142dbf7-c4e8-4d60-9301-9b1aba05de02)
